@@ -1,0 +1,4 @@
+D:\Guilherme Arquivos\Cursos\Técnico em informatica para internet\Codificaar aplicações web\Atividade 01\obj\Debug\netcoreapp3.1\Atividade 01.csprojAssemblyReference.cache
+D:\Guilherme Arquivos\Cursos\Técnico em informatica para internet\Codificaar aplicações web\Atividade 01\obj\Debug\netcoreapp3.1\Atividade 01.AssemblyInfoInputs.cache
+D:\Guilherme Arquivos\Cursos\Técnico em informatica para internet\Codificaar aplicações web\Atividade 01\obj\Debug\netcoreapp3.1\Atividade 01.AssemblyInfo.cs
+D:\Guilherme Arquivos\Cursos\Técnico em informatica para internet\Codificaar aplicações web\Atividade 01\obj\Debug\netcoreapp3.1\Atividade 01.csproj.CoreCompileInputs.cache
